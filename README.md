@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Carlos Muñoz
 
-<!--
-**CarlosAndresM/CarlosAndresM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Aquí encontrarás algunos de mis proyectos, contribuciones y experimentos en programación. Me apasiona la tecnología y el aprendizaje continuo.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desarrollador entusiasta de software y tecnología.
+- 🌱 Siempre aprendiendo nuevas herramientas y lenguajes.
+- 🤝 Abierto a colaborar en proyectos interesantes.
+
+## 🛠️ Tecnologías y herramientas
+
+- **Lenguajes:** JavaScript TypeScript
+- **Frameworks/Librerías:** React, Next.js, Node.js, Expres.
+- **Bases de datos:** MySQL, PostgreSQL, Oracle
+- **Herramientas:** Git, Docker, VSCode, Oracle APEX 
